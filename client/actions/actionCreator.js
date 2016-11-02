@@ -1,6 +1,7 @@
 // Dispatches actions
 // Increment likes
 export function increment(index) {
+  console.log('Increment  action ' + index);
     return {
       type: 'INCREMENT_LIKES',
       index

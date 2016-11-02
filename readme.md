@@ -1,3 +1,3 @@
 # Henrikgram
 
-Following the tutorial [Learn Redux](https://learnredux.com/)
+Following the tutorial by [Wes Bos](https://learnredux.com/),
