@@ -1,3 +1,4 @@
+// Dispatches actions
 // Increment likes
 export function increment(index) {
     return {
